@@ -1,3 +1,3 @@
-# Cedar Media Tool
+# Trivial Media Tool
 
-Cedar Media Tool analyzes and transcodes media files uploaded to a [Cedar Server](https://github.com/cedarproject/cedarserver).
+Trivial Media Tool analyzes and transcodes media files uploaded to a [Trivial](https://github.com/hunternet93/trivial) server.

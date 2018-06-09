@@ -1,3 +1,9 @@
+'''Trivial Media Worker
+Analyzes and transcodes media for a Trivial server.
+'''
+
+__version__ = '0.1a1'
+
 import asyncio
 import sys
 
